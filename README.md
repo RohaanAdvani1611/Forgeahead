@@ -5,4 +5,4 @@ Training - Natural Language Processing Concepts
 Projects done:
 1. AI Chatbot
 https://github.com/RohaanAdvani1611/AIChatbot
-2. Text Extraction and preprocessing using NLTK
+2. Text Extraction and preprocessing from legal contracts using NLTK
